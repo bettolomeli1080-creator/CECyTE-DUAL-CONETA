@@ -1,0 +1,5 @@
+{
+  "name": "CECyTE Connect: Dual Experience",
+  "description": "Plataforma para compartir experiencias de educación dual en CECyTE Jalisco.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
